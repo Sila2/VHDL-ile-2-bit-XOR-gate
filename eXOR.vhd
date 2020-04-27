@@ -1,10 +1,10 @@
 -----------------------
 --2 bit XOR
---Giris i?aretleri birbirinden farkl? oldu?unda 
---ç?k??a 1 veren logic kap?
+--Giris isaretleri birbirinden farkli oldugunda 
+--Ã§ikisa 1 veren logic kapi
 
---giri? portlar?:a ve b
---ç?k?? portlar?:f
+--giris portlari:a ve b
+--Ã§ikis portlari:f
 ----------------------
 
 Library IEEE;
